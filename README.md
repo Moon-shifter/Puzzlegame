@@ -12,4 +12,6 @@ A simple program after 2 week`s java learing
 * View the full picture:Q
 * move the Image：wsad/←↑→↓
 
+**Maybe you have to change the resource path by yourself**
+
 
